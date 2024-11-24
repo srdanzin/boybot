@@ -27,4 +27,4 @@ module.exports = client;
   require(`./Structures/${handler}`)(client);
 });
 
-client.login(process.env.TOKEN_BOT);
+client.login("MTMwNzc1MTM0NDQ3OTkyODQzMg.Gpe4Oo.tfr0UzPzv3EEbyXQoYsUfEDkq6vrKmqsV6aik0");
