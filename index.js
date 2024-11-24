@@ -27,4 +27,4 @@ module.exports = client;
   require(`./Structures/${handler}`)(client);
 });
 
-client.login("MTMwNzc1MTM0NDQ3OTkyODQzMg.Gpe4Oo.tfr0UzPzv3EEbyXQoYsUfEDkq6vrKmqsV6aik0");
+client.login("MTMwNzc1MTM0NDQ3OTkyODQzMg.G7y2bL._v9f_GNeE77BaDmiQUsb5uRnOBd8AnNtsiVt1Y");
